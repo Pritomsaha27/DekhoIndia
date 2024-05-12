@@ -328,18 +328,6 @@ hr{
   opacity: 0;
   transition: all 0.4s ease-in-out 0s;
 }
-.fa-circle-up{
-  font-size: 3rem;
-  color: #CB7603;
-}
-.fa-circle-up:hover{
-  color: black;
-  transition: 0.5s;
-  -webkit-transition: 0.5s;
-  -moz-transition: 0.5s;
-  -ms-transition: 0.5s;
-  -o-transition: 0.5s;
-}
 .swipeup{
   width: 3rem;
   height: auto;
